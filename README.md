@@ -18,3 +18,5 @@ When you execute "Panel Restore.exe", it search the aircraft name, scan for the 
 
 Tips:
 Create a shortcut for the two .exe, and assign an available keyboard shortcut. For example : Ctrl+Alt+F11 to save and Ctrl+Alt+F12 to restore.
+
+To run the scripts and/or build the .exe you need AutoiT: https://www.autoitscript.com/site/autoit/
